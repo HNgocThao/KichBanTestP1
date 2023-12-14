@@ -1,0 +1,45 @@
+{
+  "Test_Login": [
+    {
+      "username": "client@demo.com",
+      "password": "riseDemo"
+    },
+    {
+      "username": "admin@demo.com",
+      "password": "riseDemo"
+    }
+  ],
+  "Test_CreateEvent": [
+    {
+      "title": "Audrey",
+      "description": "Nhà quan sát",
+      "start_date": "10-12-2023",
+      "start_time": "5:00 AM",
+      "end_date": "12-12-2023",
+      "end_time": "11:00 AM",
+      "location": "Đà Nẵng",
+      "client": "Zoila Hauck"
+    },
+    {
+      "title": "Herman Sparrow",
+      "description": "Thầy Bói",
+      "start_date": "02-12-2023",
+      "start_time": "5:00 AM",
+      "end_date": "06-12-2023",
+      "end_time": "11:00 AM",
+      "location": "Đà Nẵng",
+      "client": "Zoila Hauck"
+    },
+    {
+      "title": "Furth",
+      "description": "Học đồ",
+      "start_date": "04-12-2023",
+      "start_time": "5:00 AM",
+      "end_date": "08-12-2023",
+      "end_time": "11:00 AM",
+      "location": "Đà Nẵng",
+      "client": "Zoila Hauck"
+    }
+  ],
+  "Test_case_02": []
+}
